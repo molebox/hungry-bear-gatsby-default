@@ -8,10 +8,10 @@
   Hungry Bear Studio 
 </h1>
 <h4 align="center">
-  Default TypeScript SCSS starter project
+  Default TypeScript SCSS starter project with sanity.io support
 </h4>
 
-Based on the standard Gatsby starter, this kit adds TypeScript and SCSS support with custom tslint rules.
+Based on the standard Gatsby starter with sanity.io support, this kit adds TypeScript and SCSS support with custom tslint rules.
 
 ## Quick start
 
@@ -25,6 +25,15 @@ Based on the standard Gatsby starter, this kit adds TypeScript and SCSS support 
     ```
 
 1.  **Start developing.**
+
+    Add your Sanity projectId and dataset reference.
+
+    ```sh
+        options: {
+          projectId: 'your-project-id-here',
+          dataset: 'your-dataset-here'
+        }
+    ```
 
     Navigate into your new site’s directory and start it up.
 
