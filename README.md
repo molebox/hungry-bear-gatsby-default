@@ -26,7 +26,7 @@ Based on the standard Gatsby starter with sanity.io support, this kit adds TypeS
 
 1.  **Start developing.**
 
-    Add your Sanity projectId and dataset reference.
+    Add your Sanity projectId and dataset reference in gatsby-config.js
 
     ```sh
         options: {
