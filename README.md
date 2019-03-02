@@ -13,15 +13,15 @@
 
 Based on the standard Gatsby starter, this kit adds TypeScript and SCSS support with custom tslint rules.
 
-## 🚀 Quick start
+## Quick start
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
+    Use the Gatsby CLI to create a new site, specifying the hungry-bear-default.
 
     ```sh
     # create a new Gatsby site using the hungry-bear-default
-    npx gatsby new my-hello-world-starter https://github.com/molebox/hungry-bear-gatsby-default.git
+    npx gatsby new my-wicked-new-app https://github.com/molebox/hungry-bear-gatsby-default.git
     ```
 
 1.  **Start developing.**
